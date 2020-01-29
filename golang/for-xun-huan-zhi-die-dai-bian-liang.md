@@ -69,7 +69,9 @@ func (p *field) print() {
 }
 ​
 func main() {
-    data := []field{{"one"}, {"two"}, {"three"}}
+    data := []field{
+    {"one"}, {"two"}, {"three"}
+    }
     for _, v := range data {
         go v.print()
     }
@@ -100,12 +102,16 @@ func (p *field) print() {
 }
 ​
 func main() {
-    //data := []field{{"one"}, {"two"}, {"three"}}
+    //data := []field{
+    //{"one"}, {"two"}, {"three"}
+    //}
     //for _, v := range data {
     //  go v.print()
     //}
     //time.Sleep(3 * time.Second)
-    data := []*field{{"one"}, {"two"}, {"three"}}
+    data := []*field{
+    {"one"}, {"two"}, {"three"}
+    }
     for _, v := range data {
         go v.print()
     }
