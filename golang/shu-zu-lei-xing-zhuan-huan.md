@@ -37,6 +37,8 @@ for i, v := range t {
 }
 ```
 
+csdn博客：[https://blog.csdn.net/u013276277](https://blog.csdn.net/u013276277)
+
 参看文章：
 
 [https://golang.org/doc/faq\#convert\_slice\_with\_same\_underlying\_type](https://golang.org/doc/faq#convert_slice_with_same_underlying_type)

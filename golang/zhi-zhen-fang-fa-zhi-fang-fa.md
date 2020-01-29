@@ -52,3 +52,5 @@ By the way, the idea of using `Write` on a slice of bytes is central to the impl
 
 严格来讲，基本类型的值只能调用他的值方法，而在实际中使用时，值可以调用指针方法，Golang会帮你自动转换，使得值可以调用到指针方法，原理就是：golang会先取到值的地址，用值的地址去调用指针方法。
 
+csdn博客：[https://blog.csdn.net/u013276277](https://blog.csdn.net/u013276277)
+

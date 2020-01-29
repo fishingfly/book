@@ -183,6 +183,8 @@ int8
 
 总结下：我个人比较喜欢类型断言，设计的非常棒
 
+csdn博客：[https://blog.csdn.net/u013276277](https://blog.csdn.net/u013276277)
+
 参考文章：
 
 [https://studygolang.com/articles/21591](https://studygolang.com/articles/21591)
