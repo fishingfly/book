@@ -8,3 +8,5 @@ csdn博客：[https://blog.csdn.net/u013276277](https://blog.csdn.net/u013276277
 
 ## TO BE 内容创作者\#NOT TO BE 内容享受者
 
+## 对input开放 and 针对性的output
+
