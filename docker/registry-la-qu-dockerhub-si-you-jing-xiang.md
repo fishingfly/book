@@ -216,7 +216,7 @@ docker pull fishingflt/private2:v1 //这是我的私有镜像，你需要拉你�
 
 ![](../.gitbook/assets/registry-6.png)
 
-csdn博客：[https://blog.csdn.net/u013276277](https://blog.csdn.net/u013276277)
+
 
 
 

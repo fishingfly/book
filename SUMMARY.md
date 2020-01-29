@@ -6,6 +6,7 @@
   * [简单镜像加速](docker/jian-dan-jing-xiang-jia-su.md)
   * [registry拉取dockerhub私有镜像](docker/registry-la-qu-dockerhub-si-you-jing-xiang.md)
 * [Golang](golang/README.md)
+  * [错误返回非空的值](golang/cuo-wu-fan-hui-fei-kong-de-zhi.md)
   * [数组类型转换](golang/shu-zu-lei-xing-zhuan-huan.md)
   * [强制类型转换](golang/qiang-zhi-lei-xing-zhuan-huan.md)
   * [for循环之迭代变量](golang/for-xun-huan-zhi-die-dai-bian-liang.md)
