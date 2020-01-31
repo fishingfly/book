@@ -15,4 +15,6 @@
   * [指针方法&值方法](golang/zhi-zhen-fang-fa-zhi-fang-fa.md)
 * [Gitbook](gitbook.md)
 * [油管知识汇](you-guan-zhi-shi-hui.md)
+* [穷查理宝典](qiong-cha-li-bao-dian/README.md)
+  * [一些箴言](qiong-cha-li-bao-dian/yi-xie-zhen-yan.md)
 
