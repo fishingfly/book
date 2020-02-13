@@ -6,6 +6,8 @@
   * [简单镜像加速](docker/jian-dan-jing-xiang-jia-su.md)
   * [registry拉取dockerhub私有镜像](docker/registry-la-qu-dockerhub-si-you-jing-xiang.md)
 * [Golang](golang/README.md)
+  * [flota64后面保留三位小数](golang/flota64-hou-mian-bao-liu-san-wei-xiao-shu.md)
+  * [数组赋值问题](golang/shu-zu-fu-zhi-wen-ti.md)
   * [append函数的使用方式](golang/append-han-shu-de-shi-yong-fang-shi.md)
   * [错误返回非空的值](golang/cuo-wu-fan-hui-fei-kong-de-zhi.md)
   * [数组类型转换](golang/shu-zu-lei-xing-zhuan-huan.md)
@@ -18,4 +20,6 @@
 * [油管知识汇](you-guan-zhi-shi-hui.md)
 * [穷查理宝典](qiong-cha-li-bao-dian/README.md)
   * [一些箴言](qiong-cha-li-bao-dian/yi-xie-zhen-yan.md)
+* [自省](zi-sheng/README.md)
+  * [心理倾向](zi-sheng/xin-li-qing-xiang.md)
 

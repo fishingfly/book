@@ -1,3 +1,7 @@
+---
+description: 数组类型转换不能直接转换
+---
+
 # 数组类型转换
 
 
@@ -32,8 +36,6 @@ for i, v := range t {
     s[i] = v
 }
 ```
-
-csdn博客：[https://blog.csdn.net/u013276277](https://blog.csdn.net/u013276277)
 
 参看文章：
 
