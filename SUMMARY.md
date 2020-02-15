@@ -22,4 +22,6 @@
   * [一些箴言](qiong-cha-li-bao-dian/yi-xie-zhen-yan.md)
 * [自省](zi-sheng/README.md)
   * [心理倾向](zi-sheng/xin-li-qing-xiang.md)
+* [技术调研](ji-shu-tiao-yan/README.md)
+  * [Github认证调研](ji-shu-tiao-yan/github-ren-zheng-tiao-yan.md)
 

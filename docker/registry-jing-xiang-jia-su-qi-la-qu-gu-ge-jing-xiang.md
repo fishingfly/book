@@ -168,3 +168,5 @@ Product License: Community Engine
 
 docker先向mirror地址1加速器请求，要是这个加速器可以拉到这个镜像，那就在这拉，要是这个加速器拉不到这个镜像，那就向mirror地址2拉镜像，要是第二个镜像加速器也拉不到，那就往 Registry: [https://index.docker.io/v1/](https://index.docker.io/v1/) 拉.
 
+csdn博客：[https://blog.csdn.net/u013276277](https://blog.csdn.net/u013276277)
+

@@ -34,3 +34,5 @@ docker pull gcr.azk8s.cn/google_containers/<imagename>:<version>
 docker pull gcr.azk8s.cn/google_containers/kubedns-amd64:1.7
 ```
 
+csdn博客：[https://blog.csdn.net/u013276277](https://blog.csdn.net/u013276277)
+

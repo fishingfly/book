@@ -238,3 +238,5 @@ func growslice(et *_type, old slice, cap int) slice {
 
 所以第二题的cap为4，原先cap为2，需要的cap为3，因为老切片长度为2小于2014所以直接老切片长度两倍就可以了。然后第二题的数组s的值没有变的原因是，Append发现老切片cap已经不够了，需要申请新切片。新切片底层数组就不是原来的数组了，所以对切片ss每个元素+10，是不影响老数组的元素的。
 
+csdn博客：[https://blog.csdn.net/u013276277](https://blog.csdn.net/u013276277)
+
