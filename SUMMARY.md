@@ -23,6 +23,7 @@
 * [自省](zi-sheng/README.md)
   * [心理倾向](zi-sheng/xin-li-qing-xiang.md)
 * [技术调研](ji-shu-tiao-yan/README.md)
+  * [goconvey调研学习](ji-shu-tiao-yan/goconvey-tiao-yan-xue-xi.md)
   * [Github认证调研](ji-shu-tiao-yan/github-ren-zheng-tiao-yan.md)
 * [kubenetes](kubenetes/README.md)
   * [k8s CRD（一）quick start](kubenetes/k8s-crd-yi-quick-start.md)
