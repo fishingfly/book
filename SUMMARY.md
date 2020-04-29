@@ -28,5 +28,6 @@
   * [goconvey调研学习](ji-shu-tiao-yan/goconvey-tiao-yan-xue-xi.md)
   * [Github认证调研](ji-shu-tiao-yan/github-ren-zheng-tiao-yan.md)
 * [kubenetes](kubenetes/README.md)
+  * [利用NFS动态提供Kubernetes后端存储卷](kubenetes/li-yong-nfs-dong-tai-ti-gong-kubernetes-hou-duan-cun-chu-juan.md)
   * [k8s CRD（一）quick start](kubenetes/k8s-crd-yi-quick-start.md)
 
