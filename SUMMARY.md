@@ -6,6 +6,7 @@
   * [简单镜像加速](docker/jian-dan-jing-xiang-jia-su.md)
   * [registry拉取dockerhub私有镜像](docker/registry-la-qu-dockerhub-si-you-jing-xiang.md)
 * [Golang](golang/README.md)
+  * [standard\_init\_linux.go:190: exec user process caused "no such file or directory](golang/standard_init_linux.go-190-exec-user-process-caused-no-such-file-or-directory.md)
   * [flota64后面保留三位小数](golang/flota64-hou-mian-bao-liu-san-wei-xiao-shu.md)
   * [数组赋值问题](golang/shu-zu-fu-zhi-wen-ti.md)
   * [append函数的使用方式](golang/append-han-shu-de-shi-yong-fang-shi.md)
