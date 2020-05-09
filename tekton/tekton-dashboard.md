@@ -8,7 +8,9 @@ description: tekton的原生仪表盘
 
 先给大家看下部署完之后的仪表盘页面：
 
-![dashboard-ui](https://github.com/fishingfly/pictures_for_markdown/blob/master/tekton/dashboard-ui.png?raw=true) Tekton仪表板是Tekton Pipelines基于Web的通用UI。它允许用户管理和查看Tekton PipelineRun和TaskRun,以及在tekton中创建，执行和完成过程中涉及的资源。它还允许按标签过滤PipelineRun和TaskRun。本篇将简单介绍dashboard及其安装，当然也会将下该工具在开发中的使用。
+![dashboard-ui](https://github.com/fishingfly/pictures_for_markdown/blob/master/tekton/dashboard-ui.png?raw=true) 
+
+Tekton仪表板是Tekton Pipelines基于Web的通用UI。它允许用户管理和查看Tekton PipelineRun和TaskRun,以及在tekton中创建，执行和完成过程中涉及的资源。它还允许按标签过滤PipelineRun和TaskRun。本篇将简单介绍dashboard及其安装，当然也会将下该工具在开发中的使用。
 
 ### 安装dashboard
 
