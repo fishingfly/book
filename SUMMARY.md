@@ -34,4 +34,5 @@
   * [Tekton Dashboard](tekton/tekton-dashboard.md)
   * [tekton之Task&TaskRun概念篇](tekton/tekton-zhi-tasktaskrun-gai-nian-pian.md)
   * [tekton简单介绍及安装](tekton/tekton-jian-dan-jie-shao-ji-an-zhuang.md)
+* [哈佛的6堂独立思考课](ha-fo-de-6-tang-du-li-si-kao-ke.md)
 
