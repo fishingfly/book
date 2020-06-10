@@ -2,6 +2,7 @@
 
 * [持续专注](README.md)
 * [Docker](docker/README.md)
+  * [Azure容器镜像代理服务失效](docker/azure-rong-qi-jing-xiang-dai-li-fu-wu-shi-xiao.md)
   * [registry镜像加速器拉取谷歌镜像](docker/registry-jing-xiang-jia-su-qi-la-qu-gu-ge-jing-xiang.md)
   * [简单镜像加速](docker/jian-dan-jing-xiang-jia-su.md)
   * [registry拉取dockerhub私有镜像](docker/registry-la-qu-dockerhub-si-you-jing-xiang.md)
